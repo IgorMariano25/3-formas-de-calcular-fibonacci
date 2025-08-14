@@ -1,0 +1,14 @@
+# Dependencies
+/node_modules
+
+# Build files
+/dist
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Generated files
+fibonacci-chart.png

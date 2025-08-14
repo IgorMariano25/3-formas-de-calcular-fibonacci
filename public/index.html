@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Fibonacci Real-time Chart</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Fibonacci Execution Time Comparison</h1>
+        <div class="chart-container">
+            <canvas id="fibonacciChart"></canvas>
+        </div>
+        <div class="info-panel">
+            <div class="stats">
+                <div class="stat-item">
+                    <span class="stat-label">Current N:</span>
+                    <span id="currentN" class="stat-value">-</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Fastest Method:</span>
+                    <span id="fastestMethod" class="stat-value">-</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Status:</span>
+                    <span id="status" class="stat-value">Connecting...</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="client.js"></script>
+</body>
+
+</html>
