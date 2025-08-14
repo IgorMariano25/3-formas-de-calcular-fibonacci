@@ -44,7 +44,7 @@ h1 {
 
 #fibonacciChart {
     width: 100% !important;
-    height: 400px !important;
+    height: 600px !important;
 }
 
 .info-panel {
@@ -101,7 +101,7 @@ h1 {
     }
 
     #fibonacciChart {
-        height: 300px !important;
+        height: 450px !important;
     }
 
     .stats {
