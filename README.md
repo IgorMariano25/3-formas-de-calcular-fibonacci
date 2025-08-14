@@ -28,7 +28,7 @@ A aplicação mostra em tempo real como cada algoritmo se comporta conforme o va
 
 1. **Clone o repositório:**
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/IgorMariano25/3-formas-de-calcular-fibonacci
    cd Analise-e-complexidade-de-algoritmos
    ```
 
@@ -243,16 +243,6 @@ Este projeto demonstra:
 - **Técnicas de otimização** como memoização e exponenciação rápida
 - **Desenvolvimento full-stack** com TypeScript
 - **Comunicação em tempo real** com WebSockets
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Algumas ideias:
-
-- [ ] Implementar algoritmo iterativo simples
-- [ ] Adicionar mais valores de N para teste
-- [ ] Implementar testes unitários
-- [ ] Adicionar métricas de uso de memória
-- [ ] Criar modo de benchmark personalizado
 
 ## 📄 Licença
 
